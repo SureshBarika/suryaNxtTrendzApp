@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.total-hed {
+  color: #616e7c;
+}
+
+.total {
+  color: #171f46;
+  font-size: 30px;
+}
+.total-items {
+  color: #616e7c;
+}
+
+.checkout-btn {
+  border: 0px;
+  outline: none;
+  background-color: #0b69ff;
+  width: 100%;
+  padding: 10px 0px;
+  color: #fff;
+  cursor: pointer;
+}
